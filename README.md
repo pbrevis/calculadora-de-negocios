@@ -1,2 +1,6 @@
-# calculadora-de-negocios
-Web app para estimar ingresos anuales en base al modelo de negocio
+# Calculadora de Nuevos Negocios
+Web app para estimar los ingresos anuales de nuevos negocios y compartir ideas con equipos de trabajo. Permite personalizar el modelo de negocio según la cantidad y tipo de propuestas de valor, así como el número de segmentos de clientes. Finalmente, la app permite guardar toda la información y resultados en formato PDF.
+
+La web app, que está disponible en [este link](https://gemini.google.com/share/9092040cffa5), fue desarrollada con la herramienta Canvas de Gemini usando el método "vibe coding". 
+
+![Screenshot](https://github.com/pbrevis/calculadora-de-negocios/blob/main/Screenshot.png)
